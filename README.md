@@ -1,2 +1,2 @@
 # Project-Alpaca
-Trading Project
+Algorithmic trading competition using Alpaca API via paper money
